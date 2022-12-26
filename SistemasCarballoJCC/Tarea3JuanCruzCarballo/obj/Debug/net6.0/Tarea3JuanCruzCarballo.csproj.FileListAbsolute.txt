@@ -1,0 +1,132 @@
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.AssemblyInfoInputs.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.AssemblyInfo.cs
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\appsettings.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.exe
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.deps.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.runtimeconfig.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.pdb
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\scopedcss\bundle\Tarea3JuanCruzCarballo.styles.css
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.CopyComplete
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\refint\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.pdb
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.genruntimeconfig.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Tarea3\Tarea3JuanCruzCarballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\ref\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\appsettings.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.exe
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.deps.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.runtimeconfig.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.pdb
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.AssemblyInfoInputs.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.AssemblyInfo.cs
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\scopedcss\bundle\Tarea3JuanCruzCarballo.styles.css
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.CopyComplete
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\refint\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.pdb
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.genruntimeconfig.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemaVentasCarballo-Master\Tarea3JuanCruzCarballo\obj\Debug\net6.0\ref\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\appsettings.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.exe
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.deps.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.runtimeconfig.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.pdb
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.AssemblyInfoInputs.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.AssemblyInfo.cs
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\scopedcss\bundle\Tarea3JuanCruzCarballo.styles.css
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.CopyComplete
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\refint\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.pdb
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.genruntimeconfig.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\Sistema de ventas Carballo Juan Cruz Carballo\Tarea3JuanCruzCarballo\obj\Debug\net6.0\ref\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\appsettings.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.exe
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.deps.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.runtimeconfig.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Tarea3JuanCruzCarballo.pdb
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.AssemblyInfoInputs.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.AssemblyInfo.cs
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\scopedcss\bundle\Tarea3JuanCruzCarballo.styles.css
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.csproj.CopyComplete
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\refint\Tarea3JuanCruzCarballo.dll
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.pdb
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\Tarea3JuanCruzCarballo.genruntimeconfig.cache
+C:\Users\alina\OneDrive\Escritorio\Coder\C#\SistemasCarballoJCC\Tarea3JuanCruzCarballo\obj\Debug\net6.0\ref\Tarea3JuanCruzCarballo.dll
